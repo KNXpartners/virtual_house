@@ -44,7 +44,7 @@
 -----------------------------------
 *************************************
 
-Also look at visu project its smart marketing obj to play with it & show it to your customer. Its work on real iRidium server for small or middle size projects. 
+Also look at visualization project - its smart marketing object to play with it & show it to your customer. Its work on real iRidium server for small or middle size projects. 
 
  You must use two devices: 1 smartphone for control virtual mansion & second device – tablet or PC / Mac for feedback visualization in real time. Both devices connect to virtualization server iRidium via real IP and work together.
 
