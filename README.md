@@ -44,7 +44,7 @@
 -----------------------------------
 *************************************
 
-Also look at visualization project _Virtual House_ - its smart marketing object to play with it & show it to your customer. Its work on real iRidium server for small or middle size projects. 
+Also look at visu project its smart marketing obj to play with it & show it to your customer. Its work on real iRidium server for small or middle size projects. 
 
  You must use two devices: 1 smartphone for control virtual mansion & second device – tablet or PC / Mac for feedback visualization in real time. Both devices connect to virtualization server iRidium via real IP and work together.
 
@@ -68,5 +68,6 @@ On the second panel will be reaction on you control.
     for smartphone: “KNXpartner_Visu_Phone”
 
     for feedback screen: virtualScreen_TabletOrPC (its aprox 70MB, download take couple minutes)
-
 example of control: [youtube_vurtualHouse_control](https://youtu.be/A2l571NroGU)
+
+![virtual_control](pictures/virtual_control.png)
